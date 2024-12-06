@@ -45,6 +45,8 @@ rh8_rpms:
   - nftables
   - python3-netifaces
   - python3-requests
+  - cloud-utils
+  - cloud-utils-growpart
 
 common_debs:
   - auditd
